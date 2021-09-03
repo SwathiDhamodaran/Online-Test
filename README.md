@@ -7,3 +7,7 @@ We are using here java array to store the questions, options and answers not dat
 
 ## Screenshots:
 
+![Screenshot (28)](https://user-images.githubusercontent.com/89960180/131991748-efd50e49-cf27-4033-af7b-72b30b31e3d1.png)
+**Fig 1: test**
+![Screenshot (29)](https://user-images.githubusercontent.com/89960180/131991755-ce3e9316-74f1-43f5-ae9f-cbf3fb58f46c.png)
+**Fig 2: Result**
